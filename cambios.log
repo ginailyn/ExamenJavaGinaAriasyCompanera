@@ -15,3 +15,10 @@ INSERT INTO PACIENTES (NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID) VA
 [2024-05-16 20:26:42] [ INFO ] [BD:29] tabla creada con exito
 [2024-05-16 20:26:42] [ INFO ] [PacienteDAOH2:23] iniciando la operacion de buscado de un paciente con id : 2
 [2024-05-16 20:26:42] [ INFO ] [DomicilioDAOH2:22] iniciando la busqueda de un domicilio con id: 2
+[2024-05-16 20:15:28] [ INFO ] [BD:29] tabla creada con exito
+[2024-05-16 20:15:51] [ INFO ] [BD:29] tabla creada con exito
+[2024-05-16 20:16:04] [ INFO ] [BD:29] tabla creada con exito
+[2024-05-16 20:16:14] [ INFO ] [BD:29] tabla creada con exito
+[2024-05-16 20:17:01] [ INFO ] [BD:29] tabla creada con exito
+[2024-05-16 20:27:22] [ INFO ] [BD:36] tabla creada con exito
+[2024-05-16 20:38:48] [ INFO ] [BD:37] tabla creada con exito

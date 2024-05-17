@@ -1,12 +1,14 @@
 package dao;
 
 import model.Domicilio;
-import org.apache.log4j.Logger;
+
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.List;
+import org.apache.log4j.Logger;
+
 
 public class DomicilioDAOH2 implements iDao<Domicilio>{
     private static final Logger logger= Logger.getLogger(DomicilioDAOH2.class);
